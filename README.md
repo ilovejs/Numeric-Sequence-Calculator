@@ -1,8 +1,25 @@
 # Numeric-Sequence-Calculator
 Numeric Sequence Calculator
 
-<<<<<<< HEAD
+## Instruction:
+  This calculator can generate: 
+  (all relation are inclusive)
+  
+    1. Generate full positive int series until a provided number. 
+    
+    2. Nth Fibonacci number
+    
+    3. All Even and Odd numbers until the provided number. 
+    
+    4. All number that is multiple of 3
+    
+    5. All number that is multiple of 5
+    
+    6. All number that is multiple of botn 3 and 5
+    
+
 =======
+Example:
 ![Alt text](UI.png)
 
 ### Folder Structure
@@ -25,7 +42,8 @@ Run UI test in vs2013:
 UI test result:
 
 ![Alt text](result.png)
+If UI test fail, errors will be displayed in above picture.
 
-
-
->>>>>>> 2a47592db39e8fe3ee9cee8d0d6b5e085832731b
+**Credit:**
+  front end resources download from: http://thecodeplayer.com/walkthrough/javascript-css3-calculator
+  
